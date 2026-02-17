@@ -1,0 +1,16 @@
+# Cursor
+.cursorrules
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optionnel - décommenter si tu ne veux pas versionner les CSV)
+# *.csv
